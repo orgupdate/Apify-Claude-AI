@@ -1,4 +1,4 @@
-# How to use Orgupdate Apify Actors from Claude
+# How to use Apify Actors from Claude
 
 **Scrape job listings from Claude — no code — by connecting the Orgupdate Actors to Claude through the Apify MCP server.**
 
